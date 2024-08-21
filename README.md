@@ -35,5 +35,5 @@ This comprehensive dataset includes demographic information, lifestyle factors, 
 - **Machine Learning Models**: Implementation of various models to predict CHD risk.
 - **Model Evaluation and Interpretation**: Providing insights into the most important risk factors and the model’s performance.
 
-Thank You. Let's learn together!
+Thank You. Let’s keep learning and growing together!
                                                                                                                                  
