@@ -22,7 +22,7 @@ This project aims to predict the 10-year risk of future coronary heart disease (
   
 * Statistical Analysis: Using libraries like StatsModels for in-depth statistical modeling.
 
-### Business Impact**
+### Business Impact
 
 1. Early Risk Identification: By accurately predicting the 10-year risk of coronary heart disease, healthcare providers can identify high-risk patients early, enabling timely interventions and preventive care.
 2. Resource Allocation: Healthcare systems can use these predictions to allocate resources more efficiently, focusing on patients with higher risk profiles.
