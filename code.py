@@ -129,7 +129,7 @@ data.tail()
 1. Dropping the Rows/Columns containing the null values
 """
 
-#Sometimes dropping doesn't work the best as, if a column had a lot of null values then if we drop it only based on that column, we might lost most of the important data in the other columns.
+#Sometimes dropping doesn't work the best as, if a column had a lot of null values then if we drop it only based on that column, we might lose most of the important data in the other columns.
 # Drop all rows containing null values
 #data = data.dropna()
 
